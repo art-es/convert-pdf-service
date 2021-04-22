@@ -1,0 +1,6 @@
+.idea
+.vscode
+tmp
+*.log
+html
+pdf
